@@ -81,6 +81,11 @@ th, td {
   border-bottom:0px;
 }
 
+.et {
+	color:#65727B;
+	text-align:justify;
+}
+
 dt {
   color:#444;
   font-weight:700;
