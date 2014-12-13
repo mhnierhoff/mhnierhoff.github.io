@@ -81,9 +81,18 @@ th, td {
   border-bottom:0px;
 }
 
+.at {
+  text-align:justify;
+}
+
 .et {
-	color:#65727B;
-	text-align:justify;
+  color:#65727B;
+  text-align:justify;
+}
+
+.et ul li {
+  color:#65727B;
+  text-align:left;
 }
 
 .label {
