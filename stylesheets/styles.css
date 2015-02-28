@@ -7,7 +7,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#111652;
+  color:#24303E;
   margin:0 0 20px;
 }
 
@@ -32,7 +32,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#005E17;
+  color:#2570C0;
   font-weight:550;
   text-decoration:none;
 }
@@ -105,7 +105,7 @@ th, td {
   white-space: nowrap;
   vertical-align: baseline;
   border-radius: .25em;
-  background-color: #005e02;
+  background-color: #2570C0;
 }
 
 dt {
